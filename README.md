@@ -76,14 +76,14 @@ Cargo.toml          # Project metadata and dependencies
 
 
 
-![Gameplay Screenshot]([./Screenshot.png](https://pbs.twimg.com/media/GvLTqigXwAAXfBZ?format=jpg&name=large))
+![Gameplay Screenshot]([./Screenshot.png]([https://pbs.twimg.com/media/GvLTqigXwAAXfBZ?format=jpg&name=large](https://github.com/shwet91/snake-game-rust/blob/9bd9150648458eca186c6d502fa9597f7b330b86/Screenshot.png)))
 
-![screenshot](https://pbs.twimg.com/media/GvLTqigXwAAXfBZ?format=jpg&name=large) 
+![screenshot]([https://pbs.twimg.com/media/GvLTqigXwAAXfBZ?format=jpg&name=large](https://github.com/shwet91/snake-game-rust/blob/9bd9150648458eca186c6d502fa9597f7b330b86/Screenshot.png)) 
 
 https://pbs.twimg.com/media/GvLTqigXwAAXfBZ?format=jpg&name=large
 
 
-
+https://github.com/shwet91/snake-game-rust/blob/9bd9150648458eca186c6d502fa9597f7b330b86/Screenshot.png
 
 
 📜 Dependencies

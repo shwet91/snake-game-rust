@@ -83,6 +83,9 @@ Cargo.toml          # Project metadata and dependencies
 ![screen](https://github.com/shwet91/snake-game-rust/blob/main/Screenshot.png?raw=true)
 
 
+![image_alt](https://github.com/shwet91/snake-game-rust/blob/2b4fc6a0735c0c1436930f2dc477054f682a6278/Screenshot.png)
+
+
 📜 Dependencies
 piston_window for rendering
 
